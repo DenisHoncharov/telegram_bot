@@ -19,8 +19,16 @@ if ( $text ) {
 			'one_time_keyboard' => false
 		] );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply, 'reply_markup' => $reply_markup ] );
-	} elseif ($text == "/hate") {
-		$reply        = "Гарус иди на хуй!";
+	} elseif ( $text == "/hate" ) {
+		$garusHate = [
+			"Гарус иди на хуй!",
+			'Ебал мамку Гаруса',
+			"Гарус уебанус",
+			"Гарус пиздюк",
+			"Гарус сосет хуй",
+			"Гариса мамка Саша Грей"
+		];
+		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "/help" ) {
 		$reply = "Информация с помощью.";
@@ -49,4 +57,12 @@ if ( $text ) {
 } else {
 	$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => "Отправьте текстовое сообщение." ] );
 }
+
+function getRandValue( $array ) {
+	$lenth     = count( $array );
+	$randValue = $array[ rand( 0, $lenth ) ];
+
+	return $randValue;
+}
+
 ?>
