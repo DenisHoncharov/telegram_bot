@@ -13,8 +13,6 @@ $user_id  = $result["message"]["from"]["id"];
 $keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "Гифка" ] ]; //Клавиатура
 
 if ( $text ) {
-	$reply = json_encode($result);
-	$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	if ( $text == "/start" ) {
 		$reply        = "Добро пожаловать в бота!";
 		$reply_markup = $telegram->replyKeyboardMarkup( [
