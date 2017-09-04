@@ -39,8 +39,8 @@
       <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+            <state relative-caret-position="285">
+              <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
               <folding>
                 <element signature="e#719#861#0#PHP" expanded="false" />
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
@@ -164,12 +164,12 @@
       <workItem from="1504278694828" duration="5429000" />
       <workItem from="1504510590545" duration="1995000" />
       <workItem from="1504514144738" duration="1186000" />
-      <workItem from="1504535503937" duration="803000" />
+      <workItem from="1504535503937" duration="1657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9413000" />
+    <option name="totallyTimeSpent" value="10267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="928" height="1056" extended-state="4" />
@@ -424,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+        <state relative-caret-position="285">
+          <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
           <folding>
             <element signature="e#719#861#0#PHP" expanded="false" />
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />

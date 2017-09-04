@@ -75,7 +75,7 @@ function getAllEvents() {
 }
 
 function getTodayEvents( $events ) {   //founds Events for today
-	$today_time    = mktime( 0, 0, 0, 9, 7 );  //today start time
+	$today_time    = mktime( 0, 0, 0);  //today start time
 	$tomorrow_time = $today_time + 3600 * 24;   //end of the day time
 
 	$today_events = []; //today events
