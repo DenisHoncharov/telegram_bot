@@ -32,8 +32,8 @@ if ( $text ) {
 		];
 		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
-	} elseif ( $user_id == 281759837 ) {
-		$reply     = 'Блять, заебал, не пиши сюда.';
+	} elseif ( $user_id == 254346170 ) {
+		$reply     = 'Блять, заебал, не пиши сюда';
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "/help" ) {
 		$reply = "Информация с помощью.";
