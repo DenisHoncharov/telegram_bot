@@ -11,6 +11,7 @@ $name     = $result["message"]["from"]["username"]; //Юзернейм поль�
 $keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "Гифка" ] ]; //Клавиатура
 
 if ( $text ) {
+	$reply = json_encode($result);
 	if ( $text == "/start" ) {
 		$reply        = "Добро пожаловать в бота!";
 		$reply_markup = $telegram->replyKeyboardMarkup( [
@@ -31,7 +32,6 @@ if ( $text ) {
 		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "/help" ) {
-		$reply = json_encode($result);
 		//$reply = "Информация с помощью.";
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "Картинка" ) {
