@@ -39,10 +39,10 @@
       <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="270">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding>
-                <element signature="e#1062#1204#0#PHP" expanded="false" />
+                <element signature="e#1136#1278#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -147,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1504278693433</updated>
       <workItem from="1504278694828" duration="5429000" />
-      <workItem from="1504510590545" duration="983000" />
+      <workItem from="1504510590545" duration="1059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6412000" />
+    <option name="totallyTimeSpent" value="6488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -211,7 +211,7 @@
         <state relative-caret-position="954">
           <caret line="53" column="74" lean-forward="true" selection-start-line="53" selection-start-column="74" selection-end-line="53" selection-end-column="74" />
           <folding>
-            <element signature="e#1062#1204#0#PHP" expanded="false" />
+            <element signature="e#1136#1278#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -313,10 +313,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="270">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding>
-            <element signature="e#1062#1204#0#PHP" expanded="false" />
+            <element signature="e#1136#1278#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>

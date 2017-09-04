@@ -12,6 +12,8 @@ $keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "
 
 if ( $text ) {
 	$reply = json_encode($result);
+	$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
+	
 	if ( $text == "/start" ) {
 		$reply        = "Добро пожаловать в бота!";
 		$reply_markup = $telegram->replyKeyboardMarkup( [
@@ -32,7 +34,7 @@ if ( $text ) {
 		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "/help" ) {
-		//$reply = "Информация с помощью.";
+		$reply = "Информация с помощью.";
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "Картинка" ) {
 		$url = "https://68.media.tumblr.com/6d830b4f2c455f9cb6cd4ebe5011d2b8/tumblr_oj49kevkUz1v4bb1no1_500.jpg";
