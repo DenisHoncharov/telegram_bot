@@ -13,15 +13,7 @@ $user_id  = $result["message"]["from"]["id"];
 $keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "Гифка" ] ]; //Клавиатура
 
 if ( $text ) {
-	if ( $text == "/start" ) {
-		$reply        = "Добро пожаловать в бота!";
-		$reply_markup = $telegram->replyKeyboardMarkup( [
-			'keyboard'          => $keyboard,
-			'resize_keyboard'   => true,
-			'one_time_keyboard' => false
-		] );
-		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply, 'reply_markup' => $reply_markup ] );
-	} elseif ( $text == "/hate" ) {
+	if ( $text == "/hate" ) {
 		$garusHate = [
 			"Гарус иди на хуй!",
 			'Ебал мамку Гаруса',
@@ -32,9 +24,11 @@ if ( $text ) {
 		];
 		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
-	} elseif ( $user_id == 254346170 ) {
+	} elseif ( $user_id == '254346170' ) {
 		$reply     = 'Блять, заебал, не пиши сюда';
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
+	} elseif ( $text == "/сегодня" ) {
+		getTodayTimetable();
 	} else {
 		$reply = "По запросу \"<b>" . $text . "</b>\" ничего не найдено.";
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'parse_mode' => 'HTML', 'text' => $reply ] );
@@ -50,4 +44,8 @@ function getRandValue( $array ) {
 	return $randValue;
 }
 
+
+function getTodayTimetable (){
+	
+}
 ?>
