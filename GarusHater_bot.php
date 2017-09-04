@@ -11,7 +11,7 @@ $name     = $result["message"]["from"]["username"]; //Юзернейм поль�
 $keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "Гифка" ] ]; //Клавиатура
 
 if ( $text ) {
-	//$telegram->sendMessage( [ 'text'=> print_r($result) ] );
+	$telegram->sendMessage( [ 'text'=> print_r($result) ] );
 	if ( $text == "/start" ) {
 		$reply        = "Добро пожаловать в бота!";
 		$reply_markup = $telegram->replyKeyboardMarkup( [
