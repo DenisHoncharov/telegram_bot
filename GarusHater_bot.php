@@ -6,14 +6,13 @@ $telegram = new Api( '420523762:AAFPPwjtM-azuyylScQ7SYruZVta_tGC1kM' ); //Уст
 $result   = $telegram->getWebhookUpdate(); //Передаем в переменную $result полную информацию о сообщении пользователя
 
 $text     = $result["message"]["text"]; //Текст сообщения
-$chat_id  = $result["message"]["chat"]["id"]; //Уникальный идентификатор пользователя
+$chat_id  = $result["message"]["chat"]["id"]; //Уникальный идентификатор чата
 $name     = $result["message"]["from"]["username"]; //Юзернейм пользователя
+$user_id  = $result["message"]["from"]["id"];
+
 $keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "Гифка" ] ]; //Клавиатура
 
 if ( $text ) {
-	$reply = json_encode($result);
-	$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
-	
 	if ( $text == "/start" ) {
 		$reply        = "Добро пожаловать в бота!";
 		$reply_markup = $telegram->replyKeyboardMarkup( [
@@ -32,6 +31,9 @@ if ( $text ) {
 			"Гариса мамка Саша Грей"
 		];
 		$reply     = getRandValue( $garusHate );
+		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
+	} elseif ( $user_id == 281759837 ) {
+		$reply     = 'Блять, заебал, не пиши сюда.';
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "/help" ) {
 		$reply = "Информация с помощью.";
