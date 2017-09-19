@@ -151,8 +151,8 @@ function addTypeToEvents( $todayEvents, $types ) {   //add types to events
 
 function addReadebleTime( $todayEvents ) {
 	foreach ( $todayEvents as $event ) {
-		$event->start_time = "Начало пары: " . date( "H:i", $event->start_time );
-		$event->end_time   = "Конец пары: " . date( "H:i", $event->end_time );
+		$event->start_time = "Начало пары: " . date( "H:i", $event->start_time + 3600 * 3 );
+		$event->end_time   = "Конец пары: " . date( "H:i", $event->end_time + 3600 * 3 );
 	}
 
 	return $todayEvents;
