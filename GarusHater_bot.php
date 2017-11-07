@@ -10,22 +10,12 @@ $chat_id = $result["message"]["chat"]["id"]; //Уникальный иденти
 $name    = $result["message"]["from"]["username"]; //Юзернейм пользователя
 $user_id = $result["message"]["from"]["id"];
 
-$keyboard = [ [ "Последние статьи" ], [ "Картинка" ], [ "Гифка" ] ]; //Клавиатура
-
 if ( $text ) {
 	if ( $text == "/hate" ) {
 		$garusHate = [
-			"Гарус иди на хуй!",
-			'Ебал мамку Гаруса',
-			"Гарус уебанус",
-			"Гарус пиздюк",
-			"Гарус сосет хуй",
-			"Гариса мамка Саша Грей"
+
 		];
 		$reply     = getRandValue( $garusHate );
-		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
-	} elseif ( $user_id == '254346170' ) {
-		$reply = 'Блять, заебал, не пиши сюда';
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
 	} elseif ( $text == "/сегодня" ) {
 		$today_events = getReadableTodayEvents();
