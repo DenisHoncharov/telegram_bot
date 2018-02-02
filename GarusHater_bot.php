@@ -29,31 +29,7 @@ if ( $text ) {
 	}
 }
 
-$json = file_get_contents('php://input');
-
-$action = json_decode($json, true);
-
-if ($action != null) {
-	$message = $action['message']['text'];
-	$chat = $action['message']['chat']['id'];
-	$user = $action['message']['from']['id'];
-	$user_name = $action['message']['from']['username'];
-	$first_name = $action['message']['from']['first_name'];
-}
-else {
-
-	$message = 'test';
-	$chat = 123;
-    $user = 321;
-    $user_name = 'test';
-    $first_name = 'testName';
-    if($_GET['msg']!=null)
-	{
-		$message = $_GET['msg'];
-	}
-}
-
-$error = 'sdfsdf';
+$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $result ] );
 
 function getRandValue( $array ) {
 	$lenth     = count( $array );
