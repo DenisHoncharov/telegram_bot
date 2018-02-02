@@ -27,9 +27,7 @@ if ( $text ) {
 			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $today_events ] );
 		}
 	} elseif ( $text == "/debug" ) {
-		$uniTable = new AvailableSession();
-		$today_events = $uniTable->getReadableTodayEvents();
-			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $result ] );
+		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $result ] );
 	}
 }
 
