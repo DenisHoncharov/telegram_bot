@@ -9,12 +9,11 @@ $result   = $telegram->getWebhookUpdate(); //Передаем в перемен�
 $text    = $result["message"]["text"]; //Текст сообщения
 $chat_id = $result["message"]["chat"]["id"]; //Уникальный идентификатор чата
 $name    = $result["message"]["from"]["username"]; //Юзернейм пользователя
-$user_id = $result["message"]["from"]["id"];
 
 if ( $text ) {
 	if ( $text == "/hate" ) {
 		$garusHate = [
-			'просто пивет Гарис'
+			'просто привет Гарис'
 		];
 		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );
@@ -30,11 +29,35 @@ if ( $text ) {
 	}
 }
 
+$json = file_get_contents('php://input');
+
+$action = json_decode($json, true);
+
+if ($action != null) {
+	$message = $action['message']['text'];
+	$chat = $action['message']['chat']['id'];
+	$user = $action['message']['from']['id'];
+	$user_name = $action['message']['from']['username'];
+	$first_name = $action['message']['from']['first_name'];
+}
+else {
+
+	$message = 'test';
+	$chat = 123;
+    $user = 321;
+    $user_name = 'test';
+    $first_name = 'testName';
+    if($_GET['msg']!=null)
+	{
+		$message = $_GET['msg'];
+	}
+}
+
+$error = 'sdfsdf';
+
 function getRandValue( $array ) {
 	$lenth     = count( $array );
 	$randValue = $array[ rand( 0, $lenth ) ];
 
 	return $randValue;
 }
-
-?>
