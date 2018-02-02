@@ -26,10 +26,10 @@ if ( $text ) {
 		} else if ( is_string( $today_events ) ) {
 			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $today_events ] );
 		}
-	} elseif ( $text == "/debug" ) {
-		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => print_r($result) ] );
 	}
 }
+
+
 
 
 function getRandValue( $array ) {
