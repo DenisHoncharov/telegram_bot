@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e92e2d3-15f9-4432-ab1d-0d182f0d08de" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/AvailableSession.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/GarusHater_bot.php" afterPath="$PROJECT_DIR$/GarusHater_bot.php" />
-      <change beforePath="$PROJECT_DIR$/php_errors.log" afterPath="$PROJECT_DIR$/php_errors.log" />
-      <change beforePath="$PROJECT_DIR$/telegramDebugger-master/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/telegramDebugger-master/debug.inc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/telegramDebugger-master/index.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,29 +17,74 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <executablePath>composer</executablePath>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dcb4l04t1jpoo6@ec2-23-21-195-249.compute-1.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dcb4l04t1jpoo6@ec2-23-21-195-249.compute-1.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dcb4l04t1jpoo6@ec2-23-21-195-249.compute-1.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="dcb4l04t1jpoo6: database" type="6d9b600a:PostgresImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dcb4l04t1jpoo6@ec2-23-21-195-249.compute-1.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="dcb4l04t1jpoo6: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dcb4l04t1jpoo6@ec2-23-21-195-249.compute-1.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="dcb4l04t1jpoo6: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="414">
+              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-                <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-                <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-                <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-                <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-                <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-                <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-                <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-                <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Api.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AvailableSession.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AvailableSession.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Api.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Api.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2361">
@@ -71,6 +113,7 @@
       <list>
         <option value="$PROJECT_DIR$/../testTimetable.php" />
         <option value="$PROJECT_DIR$/telegramDebugger-master/index.html" />
+        <option value="$PROJECT_DIR$/AvailableSession.php" />
         <option value="$PROJECT_DIR$/GarusHater_bot.php" />
       </list>
     </option>
@@ -133,7 +176,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="992" />
     <option name="y" value="24" />
-    <option name="width" value="926" />
+    <option name="width" value="928" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,6 +202,11 @@
               <item name="telegram_bot" type="b2602c69:ProjectViewProjectNode" />
               <item name="telegram_bot" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="telegram_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telegram_bot" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,6 +220,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -209,7 +258,7 @@
       <workItem from="1504535503937" duration="2255000" />
       <workItem from="1510059213789" duration="464000" />
       <workItem from="1510568035236" duration="96000" />
-      <workItem from="1517566979236" duration="2646000" />
+      <workItem from="1517566979236" duration="6492000" />
     </task>
     <task id="LOCAL-00001" summary="Some change">
       <created>1510059287097</created>
@@ -222,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14071000" />
+    <option name="totallyTimeSpent" value="17917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -232,7 +281,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29187396" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -260,7 +309,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -269,6 +318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -286,14 +336,6 @@
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-            <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -302,6 +344,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -319,14 +362,6 @@
           <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-            <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -335,6 +370,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -352,14 +388,6 @@
           <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-            <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -369,6 +397,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -386,14 +415,6 @@
           <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-            <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -402,6 +423,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -419,14 +441,6 @@
           <caret line="53" column="74" lean-forward="true" selection-start-line="53" selection-start-column="74" selection-end-line="53" selection-end-column="74" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-            <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -503,13 +517,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../testTimetable.php" />
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -534,29 +541,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding>
-            <element signature="n#getRandValue#0;n#!!top" expanded="false" />
-            <element signature="n#getReadableTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getAllEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getTodayEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getComplitedEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTeachersToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addSubjectToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#addTypeToEvents#0;n#!!top" expanded="false" />
-            <element signature="n#getStringTodayEvents#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Api.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2361">
           <caret line="1139" column="20" lean-forward="false" selection-start-line="1139" selection-start-column="20" selection-end-line="1139" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2c7e79c6-df35-4970-8897-90a82b49ab03/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/62c63d44/2c7e79c6-df35-4970-8897-90a82b49ab03/dcb4l04t1jpoo6.public.bmw_e30">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvailableSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="n#getRandValue#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
