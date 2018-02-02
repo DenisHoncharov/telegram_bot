@@ -64,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="558">
-              <caret line="31" column="66" lean-forward="false" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+              <caret line="31" column="78" lean-forward="false" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
               <folding>
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
               </folding>
@@ -261,7 +261,7 @@
       <workItem from="1504535503937" duration="2255000" />
       <workItem from="1510059213789" duration="464000" />
       <workItem from="1510568035236" duration="96000" />
-      <workItem from="1517566979236" duration="7708000" />
+      <workItem from="1517566979236" duration="8013000" />
     </task>
     <task id="LOCAL-00001" summary="Some change">
       <created>1510059287097</created>
@@ -274,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19133000" />
+    <option name="totallyTimeSpent" value="19438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -594,7 +594,7 @@
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
-          <caret line="31" column="66" lean-forward="false" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+          <caret line="31" column="78" lean-forward="false" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
           </folding>
