@@ -1,4 +1,6 @@
 <?php
+include_once( "telegramDebugger-master/debug.inc" ); //для дебага
+
 include( 'vendor/autoload.php' ); //Подключаем библиотеку
 use Telegram\Bot\Api;
 
@@ -13,7 +15,7 @@ $user_id = $result["message"]["from"]["id"];
 if ( $text ) {
 	if ( $text == "/hate" ) {
 		$garusHate = [
-
+			'просто пивет Гарис'
 		];
 		$reply     = getRandValue( $garusHate );
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $reply ] );

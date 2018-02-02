@@ -1,0 +1,814 @@
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:39 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:10:40 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:22 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:23 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:31 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Warning:  include_once(/inc/telegramDebugger/debug.inc): failed to open stream: No such file or directory in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '/inc/telegramDebugger/debug.inc' for inclusion (include_path='.:/usr/share/php') in /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php on line 2
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:10
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:11
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:12
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Notice:  Undefined index: message in /var/www/test.site/public-html/telegram_bot/vendor/illuminate/support/Collection.php on line 1641
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:11:45 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
