@@ -1,6 +1,4 @@
 <?php
-include_once( "telegramDebugger-master/debug.inc" ); //для дебага
-
 include( 'vendor/autoload.php' ); //Подключаем библиотеку
 use Telegram\Bot\Api;
 

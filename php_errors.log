@@ -812,3 +812,107 @@
 [02-Feb-2018 15:11:45 Europe/Helsinki] PHP Stack trace:
 [02-Feb-2018 15:11:45 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
 [02-Feb-2018 15:11:45 Europe/Helsinki] PHP   2. Illuminate\Support\Collection->offsetGet() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:13
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   3. debug\Debugger->showManagerPage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:107
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:20
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:52
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/storage.ser): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 92
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   4. debug\Debugger->writeStorage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:54
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:92
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Notice:  Undefined index: requests in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 56
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:28 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   3. debug\Debugger->showManagerPage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:107
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:20
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:52
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/storage.ser): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 92
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   4. debug\Debugger->writeStorage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:54
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:92
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Notice:  Undefined index: requests in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 56
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:51 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   3. debug\Debugger->showManagerPage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:107
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:20
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:52
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/storage.ser): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 92
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   4. debug\Debugger->writeStorage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:54
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:92
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Notice:  Undefined index: requests in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 56
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:17:58 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   3. debug\Debugger->showManagerPage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:107
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:20
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/log.txt): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 103
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   4. debug\log() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:52
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:103
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Warning:  file_put_contents(/var/www/test.site/public-html/telegram_bot/telegramDebugger-master/storage.ser): failed to open stream: Permission denied in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 92
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   4. debug\Debugger->writeStorage() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:54
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   5. file_put_contents() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:92
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Notice:  Undefined index: requests in /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc on line 56
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP Stack trace:
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   1. {main}() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:0
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   2. include_once() /var/www/test.site/public-html/telegram_bot/GarusHater_bot.php:2
+[02-Feb-2018 15:18:23 Europe/Helsinki] PHP   3. debug\Debugger->acceptLongPooling() /var/www/test.site/public-html/telegram_bot/telegramDebugger-master/debug.inc:111
