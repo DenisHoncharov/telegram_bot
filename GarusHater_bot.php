@@ -1,6 +1,8 @@
 <?php
-include( 'vendor/autoload.php' ); //Подключаем библиотеку
-include( 'AvailableSession.php' ); //Подключаем рассписание университета
+include( 'vendor/autoload.php' );	//Подключаем библиотеку
+include( 'AvailableSession.php' );	//Подключаем рассписание университета
+include( 'Link.php' ); 				//Подключаем линки для бмв
+
 use Telegram\Bot\Api;
 
 $telegram = new Api( '420523762:AAFPPwjtM-azuyylScQ7SYruZVta_tGC1kM' ); //Устанавливаем токен, полученный у BotFather
@@ -28,9 +30,13 @@ if ( $text ) {
 		} else if ( is_string( $today_events ) ) {
 			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $today_events ] );
 		}
-	} else if ($explodeText[0] === '/bmwe30'){
-		error_log($explodeText[1]);
-		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => json_encode($result) ] );
+	} else if ($explodeText[0] === '/bmw_e30' && count($explodeText) === 3){
+
+		$link = new Link();
+
+		$result = $link->setLink($text);
+
+		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $result ] );
 	}
 }
 
