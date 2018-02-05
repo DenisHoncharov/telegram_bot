@@ -10,6 +10,8 @@ $text    = $result["message"]["text"]; //Текст сообщения
 $chat_id = $result["message"]["chat"]["id"]; //Уникальный идентификатор чата
 $name    = $result["message"]["from"]["username"]; //Юзернейм пользователя
 
+$explodeText = explode(' ', $text);
+
 if ( $text ) {
 	if ( $text == "/hate" ) {
 		$garusHate = [
@@ -26,9 +28,10 @@ if ( $text ) {
 		} else if ( is_string( $today_events ) ) {
 			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $today_events ] );
 		}
+	} else if ($explodeText[0] === '/bmwe30'){
+		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => json_decode($result) ] );
 	}
 }
-
 
 
 
