@@ -29,7 +29,7 @@ if ( $text ) {
 			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $today_events ] );
 		}
 	} else if ($explodeText[0] === '/bmwe30'){
-		error_log(json_encode($result));
+		error_log($result);
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => json_encode($result) ] );
 	}
 }
