@@ -55,8 +55,8 @@
       <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
               </folding>
@@ -230,7 +230,7 @@
       <workItem from="1517813918135" duration="14364000" />
       <workItem from="1517907201117" duration="596000" />
       <workItem from="1517912833891" duration="4637000" />
-      <workItem from="1517922361418" duration="6834000" />
+      <workItem from="1517922361418" duration="6945000" />
     </task>
     <task id="LOCAL-00001" summary="Some change">
       <created>1510059287097</created>
@@ -243,7 +243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47073000" />
+    <option name="totallyTimeSpent" value="47184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -655,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
           </folding>
