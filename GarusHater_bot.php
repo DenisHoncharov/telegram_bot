@@ -49,6 +49,8 @@ if($result['message']['entities']) {
 				$requestParams['disable_web_page_preview'] = true;
 				$requestParams['parse_mode'] = 'HTML';
 				$requestParams['chat_id'] = $user_id;
+				$telegram->sendMessage($requestParams);
+				$requestParams['chat_id'] = $chat_id;
 			} elseif (count($explodeText) === 3) {
 				$reply = $link->setLink($text);
 			}
