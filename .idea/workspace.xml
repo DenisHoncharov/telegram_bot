@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e92e2d3-15f9-4432-ab1d-0d182f0d08de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/GarusHater_bot.php" afterPath="$PROJECT_DIR$/GarusHater_bot.php" />
+      <change beforePath="$PROJECT_DIR$/Link.php" afterPath="$PROJECT_DIR$/Link.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,16 +40,23 @@
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="dcb4l04t1jpoo6: database" type="6d9b600a:PostgresImplModel$Database" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dcb4l04t1jpoo6@ec2-23-21-195-249.compute-1.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="dcb4l04t1jpoo6: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding>
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
               </folding>
@@ -57,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Link.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Link.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Link.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="95" column="5" lean-forward="false" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+            <state relative-caret-position="597">
+              <caret line="86" column="62" lean-forward="false" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -99,8 +106,8 @@
         <option value="$PROJECT_DIR$/../hardTryOfVerstka/bmwE30/testBMWLinks.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2c7e79c6-df35-4970-8897-90a82b49ab03/console.sql" />
         <option value="$PROJECT_DIR$/DbConnection.php" />
-        <option value="$PROJECT_DIR$/Link.php" />
         <option value="$PROJECT_DIR$/GarusHater_bot.php" />
+        <option value="$PROJECT_DIR$/Link.php" />
       </list>
     </option>
   </component>
@@ -242,7 +249,7 @@
       <workItem from="1517813918135" duration="14364000" />
       <workItem from="1517907201117" duration="596000" />
       <workItem from="1517912833891" duration="4637000" />
-      <workItem from="1517922361418" duration="1216000" />
+      <workItem from="1517922361418" duration="1529000" />
     </task>
     <task id="LOCAL-00001" summary="Some change">
       <created>1510059287097</created>
@@ -255,7 +262,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41455000" />
+    <option name="totallyTimeSpent" value="41768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -265,7 +272,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25925925" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25925925" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -655,21 +662,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Link.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="95" column="5" lean-forward="false" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="86" column="62" lean-forward="false" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>

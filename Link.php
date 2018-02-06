@@ -84,7 +84,7 @@ class Link{
 			$title = $link['link_title'];
 
 			if (file_get_contents ($url)) {
-				$resultMessage .= "<a href='$url'>$title</a><br />";
+				$resultMessage .= "<a href='$url'>$title</a>\n";
 			}
 		}
 
