@@ -41,7 +41,7 @@ if ( $text ) {
 			$result = $link->setLink($text);
 		}
 
-		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $result ] );
+		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'parse_mode' => 'HTML', 'disable_web_page_preview' => true, 'text' => $result ] );
 	}
 }
 
