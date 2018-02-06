@@ -36,6 +36,7 @@ if ( $text ) {
 
 		if(count($explodeText) === 2){
 			$result = $link->getLinks($text);
+			$result = $link->showLinks($result);
 		} elseif (count($explodeText) === 3){
 			$result = $link->setLink($text);
 		}

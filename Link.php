@@ -71,4 +71,28 @@ class Link{
 		}
 	}
 
+	function showLinks($entity){
+
+		$resultMessage = "";
+
+		if(is_string($entity)){
+			return $resultMessage = $entity;
+		}
+
+		foreach ($entity as $link){
+			$url = $link['link'];
+			$title = $link['link_title'];
+
+			if (file_get_contents ($url)) {
+				$resultMessage .= "<a href='$url'>$title</a><br />";
+			}
+		}
+
+		if(count($resultMessage) == 0){
+			$resultMessage = 'All link in database doesn\'t work. Try to add one.';
+		}
+
+		return $resultMessage;
+	}
+
 }
