@@ -45,10 +45,10 @@ if($result['message']['entities']) {
 			if (count($explodeText) === 2) {
 				$reply = $link->getLinks($text);
 				$reply = $link->showLinks($reply);
-			} elseif (count($explodeText) === 3) {
-				$reply = $link->setLink($text);
 				$requestParams['disable_web_page_preview'] = true;
 				$requestParams['parse_mode'] = 'HTML';
+			} elseif (count($explodeText) === 3) {
+				$reply = $link->setLink($text);
 			}
 
 			$requestParams['text'] = $reply;

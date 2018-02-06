@@ -55,8 +55,8 @@
       <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+            <state relative-caret-position="417">
+              <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
               <folding>
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
               </folding>
@@ -269,7 +269,7 @@
       <workItem from="1517813918135" duration="14364000" />
       <workItem from="1517907201117" duration="596000" />
       <workItem from="1517912833891" duration="4637000" />
-      <workItem from="1517922361418" duration="3477000" />
+      <workItem from="1517922361418" duration="3864000" />
     </task>
     <task id="LOCAL-00001" summary="Some change">
       <created>1510059287097</created>
@@ -282,7 +282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43716000" />
+    <option name="totallyTimeSpent" value="44103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -661,13 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/62c63d44/2c7e79c6-df35-4970-8897-90a82b49ab03/dcb4l04t1jpoo6.public.bmw_e30">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php_errors.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15718">
@@ -692,10 +685,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://table:/62c63d44/2c7e79c6-df35-4970-8897-90a82b49ab03/dcb4l04t1jpoo6.public.bmw_e30">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        <state relative-caret-position="417">
+          <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
           <folding>
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
           </folding>
