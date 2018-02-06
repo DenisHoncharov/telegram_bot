@@ -1,5 +1,5 @@
 <?php
-include('vendor/autoload.php');    //Подключаем библиотеку
+include('vendor/autoload.php');		//Подключаем библиотеку
 include('AvailableSession.php');    //Подключаем рассписание университета
 include('Link.php');                //Подключаем линки для бмв
 
@@ -10,9 +10,9 @@ $result = $telegram->getWebhookUpdate(); //Передаем в переменн�
 
 if($result['message']['entities']) {
 
-	$text = $result["message"]["text"]; //Текст сообщения
-	$chat_id = $result["message"]["chat"]["id"]; //Уникальный идентификатор чата
-	$user_id = $result["message"]["from"]["id"]; //Уникальный идентификатор чата
+	$text = $result["message"]["text"]; 			//Текст сообщения
+	$chat_id = $result["message"]["chat"]["id"];	//Уникальный идентификатор чата
+	$user_id = $result["message"]["from"]["id"];	//Уникальный идентификатор чата
 	$name = $result["message"]["from"]["username"]; //Юзернейм пользователя
 
 	$explodeText = explode(' ', $text);
@@ -23,6 +23,13 @@ if($result['message']['entities']) {
 		$requestParams =
 			array('chat_id' => $chat_id, 'text' => '', 'parse_mode' => '', 'disable_web_page_preview' => '',
 				  'disable_notification' => '', 'reply_to_message_id' => '', 'reply_markup' => '');
+
+		if($user_id == 254346170 && $chat_id == -232982463){
+			$garusHate = ['просто привет Гарис'];
+			$reply = getRandValue($garusHate);
+
+			$requestParams['text'] = $reply;
+		}
 
 		if ($text == "/hate") {
 			$garusHate = ['просто привет Гарис'];
