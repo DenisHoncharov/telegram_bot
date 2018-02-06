@@ -47,4 +47,28 @@ class Link{
 		return 'Link doesn\'t work!';
 	}
 
+	function getLinks($text){
+		$explodeText = explode(' ', $text);
+
+		$tableName = str_replace( '/', '', $explodeText[0]);
+		$title = $explodeText[1];
+
+		try {
+			$connection = new DbConnection(false);
+			$result = $connection->selectAll($tableName, array(
+				'title' => $title,
+			));
+
+			if($result){
+				return $result;
+			}
+
+			return 'Nothing to found. Or table with name '. $tableName .' is\'t found';
+
+		} catch (PDOException $e) {
+			error_log($e);
+			return 'Some error in db!';
+		}
+	}
+
 }

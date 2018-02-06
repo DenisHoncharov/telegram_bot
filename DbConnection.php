@@ -49,4 +49,30 @@ class DbConnection {
 			throw new PDOException($e);
 		}
 	}
+
+	//return all rows or false
+	public function selectAll($table, $fields){
+		try {
+			$result = null;
+			$params = '';
+			foreach ($fields as $name => $val) {
+				if (isset($names[0])) {
+					$params .= ' AND ';
+				}
+				$params .= $name . ' = :' . $name . '';
+			}
+
+			$sql = 'SELECT * FROM ' . $table . ' WHERE ' . $params;
+			$rs = $this->db->prepare($sql);
+
+			$rs->execute($fields);
+
+			$result = $rs->fetchAll();
+			return $result;
+
+		} catch(PDOException $e) {
+			error_log($e);
+			throw new PDOException($e);
+		}
+	}
 }

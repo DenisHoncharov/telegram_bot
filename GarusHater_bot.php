@@ -30,11 +30,15 @@ if ( $text ) {
 		} else if ( is_string( $today_events ) ) {
 			$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $today_events ] );
 		}
-	} else if ($explodeText[0] === '/bmw_e30' && count($explodeText) === 3){
+	} else if ($explodeText[0] === '/bmw_e30'){
 
 		$link = new Link();
 
-		$result = $link->setLink($text);
+		if(count($explodeText) === 2){
+			$result = $link->getLinks($text);
+		} elseif (count($explodeText) === 3){
+			$result = $link->setLink($text);
+		}
 
 		$telegram->sendMessage( [ 'chat_id' => $chat_id, 'text' => $result ] );
 	}
