@@ -67,6 +67,7 @@ $result = $telegram->getWebhookUpdate(); //Передаем в переменн�
 
 		error_log('Request:');
 		error_log($requestParams['text']);
+		error_log($requestParams['chat_id']);
 
 		$telegram->sendMessage($requestParams);
 
