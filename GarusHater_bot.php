@@ -12,6 +12,7 @@ if($result['message']['entities']) {
 
 	$text = $result["message"]["text"]; //Текст сообщения
 	$chat_id = $result["message"]["chat"]["id"]; //Уникальный идентификатор чата
+	$user_id = $result["message"]["from"]["id"]; //Уникальный идентификатор чата
 	$name = $result["message"]["from"]["username"]; //Юзернейм пользователя
 
 	$explodeText = explode(' ', $text);
@@ -47,6 +48,7 @@ if($result['message']['entities']) {
 				$reply = $link->showLinks($reply);
 				$requestParams['disable_web_page_preview'] = true;
 				$requestParams['parse_mode'] = 'HTML';
+				$requestParams['chat_id'] = $user_id;
 			} elseif (count($explodeText) === 3) {
 				$reply = $link->setLink($text);
 			}
