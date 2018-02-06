@@ -59,7 +59,7 @@ if ($text) {
 	}
 
 	error_log('Response:');
-	error_log(print_r($result));
+	error_log($result);
 
 	error_log('Request:');
 	error_log($requestParams['text']);
