@@ -21,8 +21,14 @@ class Link{
 
 		if ($page_content = file_get_contents ($url)) {
 			preg_match( "|<title>(.*)</title>|sUSi", $page_content, $matches);
-			$link_title = $matches[1];
+
+			$link_title = mb_convert_encoding($matches[1], "UTF-8");
+
+			//delete '?' if encoding is false
+			$link_title = str_replace ( '?', '', $link_title);
+
 			$link_title = trim(mb_substr(explode('—', $link_title)[0], 0, 100));
+
 			try {
 
 				$connection = new DbConnection(false);
