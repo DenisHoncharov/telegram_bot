@@ -15,21 +15,14 @@ if($result['message']['entities']) {
 	$user_id = $result["message"]["from"]["id"];	//Уникальный идентификатор чата
 	$name = $result["message"]["from"]["username"]; //Юзернейм пользователя
 
-	$explodeText = explode(' ', $text);
-
 	if ($text) {
+
+		$explodeText = explode(' ', $text);
 
 		$reply = '';
 		$requestParams =
 			array('chat_id' => $chat_id, 'text' => '', 'parse_mode' => '', 'disable_web_page_preview' => '',
 				  'disable_notification' => '', 'reply_to_message_id' => '', 'reply_markup' => '');
-
-		if($user_id == 254346170 && $chat_id == -232982463){
-			$garusHate = ['просто привет Гарис'];
-			$reply = getRandValue($garusHate);
-
-			$requestParams['text'] = $reply;
-		}
 
 		if ($text == "/hate") {
 			$garusHate = ['просто привет Гарис'];
