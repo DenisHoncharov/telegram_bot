@@ -26,9 +26,7 @@ if ($result['message']['entities']) {
 
 		if ($text == "/start") {
 			$reply = "Добро пожаловать в бота BMW помощника!";
-			$reply_markup = Telegram\Bot\Keyboard\Keyboard::make();
 			$requestParams['text'] = $reply;
-			$requestParams['reply_markup'] = $reply_markup;
 		} elseif ($text == "/help") {
 			$reply = "Информация с помощью.";
 			$requestParams['text'] = $reply;
