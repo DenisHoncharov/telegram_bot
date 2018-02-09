@@ -71,6 +71,8 @@ if ($result['message']['entities']) {
 			}
 
 			$requestParams['text'] = $reply;
+		} elseif($text == '/test'){
+			$requestParams['text'] = 'https://media2.giphy.com/media/dtYFU9GEURbck/giphy.mp4';
 		}
 
 		error_log('Response:');
