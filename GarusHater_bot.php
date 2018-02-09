@@ -1,7 +1,8 @@
 <?php
-include('vendor/autoload.php');        //Подключаем библиотеку
+include('vendor/autoload.php');     //Подключаем библиотеку
 include('AvailableSession.php');    //Подключаем рассписание университета
 include('Link.php');                //Подключаем линки для бмв
+include('MyCustomException.php');	//Подключаем кастомные ексепшены
 
 use Telegram\Bot\Api;
 
@@ -10,7 +11,7 @@ $result = $telegram->getWebhookUpdate(); //Передаем в переменн�
 
 if ($result['message']['entities']) {
 
-	$text = $result["message"]["text"];            //Текст сообщения
+	$text = $result["message"]["text"];             //Текст сообщения
 	$chat_id = $result["message"]["chat"]["id"];    //Уникальный идентификатор чата
 	$user_id = $result["message"]["from"]["id"];    //Уникальный идентификатор чата
 	$name = $result["message"]["from"]["username"]; //Юзернейм пользователя
@@ -73,11 +74,19 @@ if ($result['message']['entities']) {
 			$requestParams['text'] = $reply;
 		} elseif(substr($text, 0, 4) == '/gif'){
 			$gifLink = new Link();
-			$telegram->sendVideo([
-       			'chat_id' => $chat_id,
-	   			'video'=> $gifLink->getGifLink($text)
-			]);
-			return;
+
+			try {
+				$gifLink = $gifLink->getGifLink($text);
+
+				$telegram->sendVideo([
+					'chat_id' => $chat_id,
+					'video'=> $gifLink
+				]);
+
+				return;
+			} catch (MyCustomException $e){
+				$requestParams['text'] = 'Sorry! But you call gif to many time, try latter';
+			}
 		}
 
 		error_log('Response:');
