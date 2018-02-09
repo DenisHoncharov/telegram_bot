@@ -72,7 +72,11 @@ if ($result['message']['entities']) {
 
 			$requestParams['text'] = $reply;
 		} elseif($text == '/test'){
-			$requestParams['text'] = 'https://media2.giphy.com/media/dtYFU9GEURbck/giphy.mp4';
+			//$requestParams['text'] = 'https://media2.giphy.com/media/dtYFU9GEURbck/giphy.mp4';
+			$telegram->sendVideo([
+       'chat_id'              => $chat_id,
+	   'video'                => 'https://media2.giphy.com/media/dtYFU9GEURbck/giphy.mp4']);
+			return;
 		}
 
 		error_log('Response:');
