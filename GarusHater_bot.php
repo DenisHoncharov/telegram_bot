@@ -27,10 +27,11 @@ if ($result['message']['entities']) {
 		if ($text == "/start") {
 			$reply = "Добро пожаловать в бота BMW помощника!";
 			$reply_markup = Telegram\Bot\Keyboard\Keyboard::make();
-			$telegram->sendMessage(['chat_id' => $chat_id, 'text' => $reply, 'reply_markup' => $reply_markup]);
+			$requestParams['text'] = $reply;
+			$requestParams['reply_markup'] = $reply_markup;
 		} elseif ($text == "/help") {
 			$reply = "Информация с помощью.";
-			$telegram->sendMessage(['chat_id' => $chat_id, 'text' => $reply]);
+			$requestParams['text'] = $reply;
 		} elseif ($text == "/hate") {
 			$garusHate = ['просто привет Гарис'];
 			$reply = getRandValue($garusHate);
