@@ -75,4 +75,33 @@ class DbConnection {
 			throw new PDOException($e);
 		}
 	}
+
+	//delete row
+	public function deleteRow($table, $fields){
+		try {
+			$result = null;
+			$params = '';
+			foreach ($fields as $name => $val) {
+				if (isset($names[0])) {
+					$params .= ' AND ';
+				}
+				$params .= $name . ' = :' . $name . '';
+			}
+
+			$sql = 'DELETE FROM ' . $table . ' WHERE ' . $params;
+			$rs = $this->db->prepare($sql);
+
+			if ($rs->execute($fields) && $rs->rowCount() > 0) {
+				$result = $rs->rowCount() . ' field(s) was deleted';
+			} else {
+				$result = 'Nothing to find.';
+			}
+
+			return $result;
+
+		} catch(PDOException $e) {
+			error_log($e);
+			throw new PDOException($e);
+		}
+	}
 }

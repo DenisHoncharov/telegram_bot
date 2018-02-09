@@ -43,7 +43,9 @@ if($result['message']['entities']) {
 
 			$link = new Link();
 
-			if (count($explodeText) === 2) {
+			if($explodeText[1] == 'delete'){
+				$reply = $link->deleteLinks($text);
+			} elseif (count($explodeText) === 2) {
 				$reply = $link->getLinks($text);
 				$reply = $link->showLinks($reply);
 				$requestParams['disable_web_page_preview'] = true;

@@ -86,11 +86,12 @@ class Link{
 		}
 
 		foreach ($entity as $link){
+			$link_id = $link['id'];
 			$url = $link['link'];
 			$title = $link['link_title'];
 
 			if (file_get_contents ($url)) {
-				$resultMessage .= "<a href='$url'>$title</a>\n";
+				$resultMessage .= "$link_id <a href='$url'>$title</a>\n";
 			}
 		}
 
@@ -101,4 +102,28 @@ class Link{
 		return $resultMessage;
 	}
 
+	function deleteLinks($text){
+		$explodeText = explode(' ', $text);
+
+		$tableName = str_replace( '/', '', $explodeText[0]);
+		$link_id = $explodeText[2];
+
+		try {
+			$connection = new DbConnection(false);
+			$result = $connection->deleteRow($tableName, array(
+				'id' => $link_id,
+			));
+
+			if($result){
+				return $result;
+			}
+
+			return 'Can\'t found row with id = "'. $link_id .'". Or table with name '. $tableName .' is\'t found';
+
+		} catch (PDOException $e) {
+			error_log($e);
+			return 'Some error in db!';
+		}
+
+	}
 }
