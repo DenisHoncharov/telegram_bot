@@ -126,4 +126,27 @@ class Link{
 		}
 
 	}
+
+	function getGifLink($text){
+		$tag = trim(str_replace( '/gif', '', $text));
+
+		$url = 'https://api.giphy.com/v1/gifs/random?api_key=9GBOuR3x9riYGz1ZLjTu3ypxWCuxjdZD&tag='. urlencode($tag) .'&rating=G';
+
+		$ch = curl_init($url);
+		curl_setopt($ch, CURLOPT_HEADER, 0);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+		$gifResponse = curl_exec($ch);
+		curl_close($ch);
+
+		if(!$gifResponse){
+			die('Error: "' . curl_error($ch) . '" - Code: ' . curl_errno($ch));
+		}
+
+		$giphyBody = json_decode($gifResponse);
+
+		$foundedGif = $giphyBody->data->image_mp4_url;
+
+		return $foundedGif;
+	}
 }

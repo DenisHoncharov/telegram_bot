@@ -4,6 +4,7 @@
     <list default="true" id="5e92e2d3-15f9-4432-ab1d-0d182f0d08de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/GarusHater_bot.php" afterPath="$PROJECT_DIR$/GarusHater_bot.php" />
+      <change beforePath="$PROJECT_DIR$/Link.php" afterPath="$PROJECT_DIR$/Link.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,8 +65,8 @@
       <file leaf-file-name="GarusHater_bot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="76" column="16" lean-forward="false" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
               <folding>
                 <element signature="e#1892#2043#0#PHP" expanded="false" />
                 <element signature="n#getRandValue#0;n#!!top" expanded="false" />
@@ -111,8 +112,8 @@
       <file leaf-file-name="Link.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Link.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            <state relative-caret-position="174">
+              <caret line="129" column="23" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -290,7 +291,7 @@
       <workItem from="1518007758157" duration="1469000" />
       <workItem from="1518073231907" duration="879000" />
       <workItem from="1518096210311" duration="814000" />
-      <workItem from="1518169995050" duration="3640000" />
+      <workItem from="1518169995050" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="Some change">
       <created>1510059287097</created>
@@ -303,7 +304,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55854000" />
+    <option name="totallyTimeSpent" value="57257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -702,14 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Link.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Api.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -718,10 +711,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="129" column="23" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GarusHater_bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="76" column="16" lean-forward="false" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
           <folding>
             <element signature="e#1892#2043#0#PHP" expanded="false" />
             <element signature="n#getRandValue#0;n#!!top" expanded="false" />
