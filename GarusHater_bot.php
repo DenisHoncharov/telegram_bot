@@ -1,5 +1,5 @@
 <?php
-include('vendor/autoload.php');		//Подключаем библиотеку
+include('vendor/autoload.php');        //Подключаем библиотеку
 include('AvailableSession.php');    //Подключаем рассписание университета
 include('Link.php');                //Подключаем линки для бмв
 
@@ -8,11 +8,11 @@ use Telegram\Bot\Api;
 $telegram = new Api('420523762:AAFPPwjtM-azuyylScQ7SYruZVta_tGC1kM'); //Устанавливаем токен, полученный у BotFather
 $result = $telegram->getWebhookUpdate(); //Передаем в переменную $result полную информацию о сообщении пользователя
 
-if($result['message']['entities']) {
+if ($result['message']['entities']) {
 
-	$text = $result["message"]["text"]; 			//Текст сообщения
-	$chat_id = $result["message"]["chat"]["id"];	//Уникальный идентификатор чата
-	$user_id = $result["message"]["from"]["id"];	//Уникальный идентификатор чата
+	$text = $result["message"]["text"];            //Текст сообщения
+	$chat_id = $result["message"]["chat"]["id"];    //Уникальный идентификатор чата
+	$user_id = $result["message"]["from"]["id"];    //Уникальный идентификатор чата
 	$name = $result["message"]["from"]["username"]; //Юзернейм пользователя
 
 	if ($text) {
@@ -24,7 +24,14 @@ if($result['message']['entities']) {
 			array('chat_id' => $chat_id, 'text' => '', 'parse_mode' => '', 'disable_web_page_preview' => '',
 				  'disable_notification' => '', 'reply_to_message_id' => '', 'reply_markup' => '');
 
-		if ($text == "/hate") {
+		if ($text == "/start") {
+			$reply = "Добро пожаловать в бота BMW помощника!";
+			$reply_markup = Telegram\Bot\Keyboard\Keyboard::make();
+			$telegram->sendMessage(['chat_id' => $chat_id, 'text' => $reply, 'reply_markup' => $reply_markup]);
+		} elseif ($text == "/help") {
+			$reply = "Информация с помощью.";
+			$telegram->sendMessage(['chat_id' => $chat_id, 'text' => $reply]);
+		} elseif ($text == "/hate") {
 			$garusHate = ['просто привет Гарис'];
 			$reply = getRandValue($garusHate);
 
@@ -43,7 +50,7 @@ if($result['message']['entities']) {
 
 			$link = new Link();
 
-			if($explodeText[1] == 'delete'){
+			if ($explodeText[1] == 'delete') {
 				$reply = $link->deleteLinks($text);
 			} elseif (count($explodeText) === 2) {
 				$reply = $link->getLinks($text);
