@@ -85,7 +85,7 @@ if ($result['message']['entities']) {
 
 				return;
 			} catch (MyCustomException $e){
-				$requestParams['text'] = 'Sorry! But you call gif to many time, try latter';
+				$requestParams['text'] = $e->getMessage();
 			}
 		}
 

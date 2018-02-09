@@ -140,10 +140,14 @@ class Link{
 		curl_close($ch);
 
 		if(!$gifResponse){
-			die('Error: "' . curl_error($ch) . '" - Code: ' . curl_errno($ch));
+			throw new MyCustomException('Sorry, curl isn\'t work.');
 		}
 
 		$giphyBody = json_decode($gifResponse);
+
+		if (empty($giphyBody->data)) {
+			throw new MyCustomException('Too many requests try latter');
+		}
 
 		$foundedGif = $giphyBody->data->image_mp4_url;
 
