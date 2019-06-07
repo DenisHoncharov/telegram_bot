@@ -117,6 +117,8 @@ if ($result['message']['entities']) {
                 return;
             }
 
+        } else {
+		    $requestParams['text'] = '';
         }
 
 		error_log('Response:');
@@ -125,7 +127,9 @@ if ($result['message']['entities']) {
 		error_log('Request:');
 		error_log($requestParams['text']);
 
-		$telegram->sendMessage($requestParams);
+		if ($requestParams['text'] === '') {
+            $telegram->sendMessage($requestParams);
+        }
 
 	}
 }
