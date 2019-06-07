@@ -11,10 +11,13 @@ $result = $telegram->getWebhookUpdate(); //Передаем в переменн�
 
 if ($result['message']['entities']) {
 
-	$text = $result["message"]["text"];             //Текст сообщения
+    error_log('Request with entities');
+    error_log(json_encode($result, JSON_PRETTY_PRINT));
+
+	$text    = $result["message"]["text"];             //Текст сообщения
 	$chat_id = $result["message"]["chat"]["id"];    //Уникальный идентификатор чата
 	$user_id = $result["message"]["from"]["id"];    //Уникальный идентификатор чата
-	$name = $result["message"]["from"]["username"]; //Юзернейм пользователя
+	$name    = $result["message"]["from"]["username"]; //Юзернейм пользователя
 
 	if ($text) {
 
@@ -72,22 +75,49 @@ if ($result['message']['entities']) {
 			}
 
 			$requestParams['text'] = $reply;
-		} elseif(substr($text, 0, 4) == '/gif'){
-			$gifLink = new Link();
 
-			try {
-				$gifLink = $gifLink->getGifLink($text);
+		} elseif(substr($text, 0, 4) == '/gif'|| $text === '/boobs' || $text === '/butts' || $text === '/garisaMamka') {
 
-				$telegram->sendVideo([
-					'chat_id' => $chat_id,
-					'video'=> $gifLink
-				]);
+            $gifLink = new Link();
 
-				return;
-			} catch (MyCustomException $e){
-				$requestParams['text'] = $e->getMessage();
-			}
-		}
+            if($explodeText[0] === '/gif') {
+                try {
+                    $gifLink = $gifLink->getGifLink($text);
+
+                    $telegram->sendVideo(
+                        ['chat_id' => $chat_id, 'video' => $gifLink]
+                    );
+
+                    return;
+                } catch (MyCustomException $e) {
+                    $requestParams['text'] = $e->getMessage();
+                }
+            }else{
+
+                if($text === '/garisaMamka'){
+                    $text = getRandValue(array('/boobs', '/butts'));
+                }
+
+                $tag = trim(str_replace('/', '', $text));
+
+                $url = 'http://api.o'. $tag .'.ru/'. $tag .'/1/1/random';
+
+                $api = new APIConnection($url);
+                $photoResponse = $api->getResponseResult();
+
+                $photo = json_decode($photoResponse)[0];
+                $photo = explode('/', $photo->preview)[1];
+
+                $photoLink = 'http://media.o'. $tag .'.ru/'. $tag .'/' . $photo;
+
+                $telegram->sendPhoto(
+                    ['chat_id' => $chat_id, 'photo' => $photoLink]
+                );
+
+                return;
+            }
+
+        }
 
 		error_log('Response:');
 		error_log(json_encode($result));
