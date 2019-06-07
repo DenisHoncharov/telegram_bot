@@ -9,6 +9,9 @@ use Telegram\Bot\Api;
 $telegram = new Api('420523762:AAFPPwjtM-azuyylScQ7SYruZVta_tGC1kM'); //Устанавливаем токен, полученный у BotFather
 $result = $telegram->getWebhookUpdate(); //Передаем в переменную $result полную информацию о сообщении пользователя
 
+error_log('Request with start');
+error_log(json_encode($result, JSON_PRETTY_PRINT));
+
 if ($result['message']['entities']) {
 
     error_log('Request with entities');
